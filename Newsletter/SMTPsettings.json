@@ -1,0 +1,11 @@
+{
+  "SMTPConfig": {
+    "SenderAddress": "",
+    "SenderName": "",
+    "AuthLogin": "",
+    "AuthPassword": "",
+    "host": "",
+    "Port": 25,
+    "ProtectedConnect": false
+  }
+}
